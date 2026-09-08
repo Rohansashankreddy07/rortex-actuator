@@ -112,6 +112,4 @@ This repository currently contains the project brief and editable `project.json`
 **Rohan Sashank Reddy**  
 [GitHub](https://github.com/Rohansashankreddy07) · [LinkedIn](https://www.linkedin.com/in/rohan-sashank-reddy-chilukuri-aa169336a/) · [Instagram](https://www.instagram.com/rohansashankreddy/)
 
-## Maintaining this repository
-
-Keep this README and `project.json` aligned as the project develops. Record evidence when a planned feature becomes implemented or a target becomes a measured result. Preserve the project ID so future portfolio updates can link to the same project.
+\
