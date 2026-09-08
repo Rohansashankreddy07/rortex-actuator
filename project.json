@@ -1,0 +1,27 @@
+{
+  "id": "rortex",
+  "name": "RORTEX",
+  "subtitle": "Clustered multi-motor actuator",
+  "category": "Robotics & hardware",
+  "status": "Design & validation",
+  "icon": "rortex",
+  "summary": "A three-motor actuator concept for humanoid joints, bringing mechanics, custom motor control, and transmission design together.",
+  "overview": "RORTEX explores a clustered multi-motor quasi-direct-drive architecture and harmonic/cycloidal transmission ideas. The current PCB baseline brings together three FOC channels and four SPI encoder interfaces.",
+  "current_state": "The three-channel PCB is reported to pass EasyEDA DRC. Electrical, thermal, fabrication, and output-performance validation remain open. The 50 N·m peak torque figure is a design target, not a measured rating.",
+  "highlights": [
+    "Three FOC motor-control channels and four SPI encoder interfaces.",
+    "A shared buck converter is the selected low-voltage supply direction.",
+    "STM32G491RE control planning, transmission exploration, and power-path review."
+  ],
+  "next_focus": "Complete electrical and thermal review, validate the power stage, and establish measured actuator performance.",
+  "tags": [
+    "3 × FOC",
+    "4 × SPI encoders",
+    "50 N·m target"
+  ],
+  "repository_slug": "rortex-actuator",
+  "repository_url": "https://github.com/Rohansashankreddy07/rortex-actuator",
+  "sources": [
+    "RORTEX project history and current three-FOC PCB baseline"
+  ]
+}
